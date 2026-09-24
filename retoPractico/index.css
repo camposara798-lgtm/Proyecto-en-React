@@ -1,9 +1,0 @@
-#contenedor {
-    width: 200px;
-    height: 200px;
-    background: red;
-}
-
-#contenedor.activo {
-    background: green;
-}
